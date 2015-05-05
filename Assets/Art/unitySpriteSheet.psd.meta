@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 1a38a685ca513884eaec54af6d44e91b
+timeCreated: 1429456145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spr_grass01
+    21300002: spr_slime_move_00
+    21300004: spr_grass00
+    21300006: spr_char_head
+    21300008: spr_grass02
+    21300010: spr_char_arm
+    21300012: spr_char_body
+    21300014: spr_ground_connector
+    21300016: spr_char_leg
+    21300018: spr_ground
+    21300020: spr_slime_dead
+    21300022: spr_slime_move_01
+    21300024: spr_leaf
+    21300026: spr_town
+    21300028: spr_orders
+    21300030: spr_fear
+    21300032: spr_house1
+    21300034: spr_house2
+    21300036: spr_Smoke
+    21300038: spr_airMin_01
+    21300040: spr_airMin_02
+    21300042: spr_firechicken00
+    21300044: spr_firechicken01
+    21300046: spr_Screen
+    21300048: spr_cloud1
+    21300050: spr_cloud 2
+    21300052: spr_cloud03
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 31
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_grass01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_slime_move_00
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 479
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_grass00
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_char_head
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 436
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_grass02
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_char_body
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 400
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_ground_connector
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_ground
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_slime_dead
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 469
+        width: 47
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_slime_move_01
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 479
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_leaf
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 462
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_town
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 413
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_orders
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 381
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_fear
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 367
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_house1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 413
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_house2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 413
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_Smoke
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 388
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_airMin_01
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 326
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_airMin_02
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 289
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_firechicken00
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 294
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_firechicken01
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 300
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_Screen
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 470
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_cloud1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 454
+        width: 102
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_cloud 2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 382
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_cloud03
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 329
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
